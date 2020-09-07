@@ -1,0 +1,7 @@
+E:\Projects\Visual\c#\FirstBookApp\Glava6\bin\Debug\Glava6.exe.config
+E:\Projects\Visual\c#\FirstBookApp\Glava6\bin\Debug\Glava6.exe
+E:\Projects\Visual\c#\FirstBookApp\Glava6\bin\Debug\Glava6.pdb
+E:\Projects\Visual\c#\FirstBookApp\Glava6\obj\Debug\Glava6.csprojAssemblyReference.cache
+E:\Projects\Visual\c#\FirstBookApp\Glava6\obj\Debug\Glava6.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\Glava6\obj\Debug\Glava6.exe
+E:\Projects\Visual\c#\FirstBookApp\Glava6\obj\Debug\Glava6.pdb

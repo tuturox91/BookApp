@@ -1,0 +1,7 @@
+E:\Projects\Visual\c#\FirstBookApp\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe.config
+E:\Projects\Visual\c#\FirstBookApp\InterfaceNameClash\bin\Debug\InterfaceNameClash.exe
+E:\Projects\Visual\c#\FirstBookApp\InterfaceNameClash\bin\Debug\InterfaceNameClash.pdb
+E:\Projects\Visual\c#\FirstBookApp\InterfaceNameClash\obj\Debug\InterfaceNameClash.csprojAssemblyReference.cache
+E:\Projects\Visual\c#\FirstBookApp\InterfaceNameClash\obj\Debug\InterfaceNameClash.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\InterfaceNameClash\obj\Debug\InterfaceNameClash.exe
+E:\Projects\Visual\c#\FirstBookApp\InterfaceNameClash\obj\Debug\InterfaceNameClash.pdb

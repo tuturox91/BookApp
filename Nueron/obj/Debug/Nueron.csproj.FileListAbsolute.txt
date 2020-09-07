@@ -1,0 +1,7 @@
+E:\Projects\Visual\c#\FirstBookApp\Nueron\bin\Debug\Nueron.exe.config
+E:\Projects\Visual\c#\FirstBookApp\Nueron\bin\Debug\Nueron.exe
+E:\Projects\Visual\c#\FirstBookApp\Nueron\bin\Debug\Nueron.pdb
+E:\Projects\Visual\c#\FirstBookApp\Nueron\obj\Debug\Nueron.csprojAssemblyReference.cache
+E:\Projects\Visual\c#\FirstBookApp\Nueron\obj\Debug\Nueron.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\Nueron\obj\Debug\Nueron.exe
+E:\Projects\Visual\c#\FirstBookApp\Nueron\obj\Debug\Nueron.pdb

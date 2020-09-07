@@ -1,0 +1,7 @@
+E:\Projects\Visual\c#\FirstBookApp\CustomInterface\bin\Debug\CustomInterface.exe.config
+E:\Projects\Visual\c#\FirstBookApp\CustomInterface\bin\Debug\CustomInterface.exe
+E:\Projects\Visual\c#\FirstBookApp\CustomInterface\bin\Debug\CustomInterface.pdb
+E:\Projects\Visual\c#\FirstBookApp\CustomInterface\obj\Debug\CustomInterface.csprojAssemblyReference.cache
+E:\Projects\Visual\c#\FirstBookApp\CustomInterface\obj\Debug\CustomInterface.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\CustomInterface\obj\Debug\CustomInterface.exe
+E:\Projects\Visual\c#\FirstBookApp\CustomInterface\obj\Debug\CustomInterface.pdb

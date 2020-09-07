@@ -1,0 +1,7 @@
+E:\Projects\Visual\c#\FirstBookApp\Shapes\bin\Debug\Shapes.exe.config
+E:\Projects\Visual\c#\FirstBookApp\Shapes\bin\Debug\Shapes.exe
+E:\Projects\Visual\c#\FirstBookApp\Shapes\bin\Debug\Shapes.pdb
+E:\Projects\Visual\c#\FirstBookApp\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+E:\Projects\Visual\c#\FirstBookApp\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\Shapes\obj\Debug\Shapes.exe
+E:\Projects\Visual\c#\FirstBookApp\Shapes\obj\Debug\Shapes.pdb

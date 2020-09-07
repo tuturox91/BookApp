@@ -1,0 +1,7 @@
+E:\Projects\Visual\c#\FirstBookApp\ExeptionMake\bin\Debug\ExeptionMake.exe.config
+E:\Projects\Visual\c#\FirstBookApp\ExeptionMake\bin\Debug\ExeptionMake.exe
+E:\Projects\Visual\c#\FirstBookApp\ExeptionMake\bin\Debug\ExeptionMake.pdb
+E:\Projects\Visual\c#\FirstBookApp\ExeptionMake\obj\Debug\ExeptionMake.csprojAssemblyReference.cache
+E:\Projects\Visual\c#\FirstBookApp\ExeptionMake\obj\Debug\ExeptionMake.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\ExeptionMake\obj\Debug\ExeptionMake.exe
+E:\Projects\Visual\c#\FirstBookApp\ExeptionMake\obj\Debug\ExeptionMake.pdb

@@ -1,0 +1,7 @@
+E:\Projects\Visual\c#\FirstBookApp\CustomExeption\bin\Debug\CustomExeption.exe.config
+E:\Projects\Visual\c#\FirstBookApp\CustomExeption\bin\Debug\CustomExeption.exe
+E:\Projects\Visual\c#\FirstBookApp\CustomExeption\bin\Debug\CustomExeption.pdb
+E:\Projects\Visual\c#\FirstBookApp\CustomExeption\obj\Debug\CustomExeption.csprojAssemblyReference.cache
+E:\Projects\Visual\c#\FirstBookApp\CustomExeption\obj\Debug\CustomExeption.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\CustomExeption\obj\Debug\CustomExeption.exe
+E:\Projects\Visual\c#\FirstBookApp\CustomExeption\obj\Debug\CustomExeption.pdb

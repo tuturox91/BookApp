@@ -1,0 +1,6 @@
+E:\Projects\Visual\c#\FirstBookApp\ComparableCar\bin\Debug\ComparableCar.exe.config
+E:\Projects\Visual\c#\FirstBookApp\ComparableCar\bin\Debug\ComparableCar.exe
+E:\Projects\Visual\c#\FirstBookApp\ComparableCar\bin\Debug\ComparableCar.pdb
+E:\Projects\Visual\c#\FirstBookApp\ComparableCar\obj\Debug\ComparableCar.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\ComparableCar\obj\Debug\ComparableCar.exe
+E:\Projects\Visual\c#\FirstBookApp\ComparableCar\obj\Debug\ComparableCar.pdb

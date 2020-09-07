@@ -1,0 +1,7 @@
+E:\Projects\Visual\c#\FirstBookApp\Glava4andMore\bin\Debug\Glava4andMore.exe.config
+E:\Projects\Visual\c#\FirstBookApp\Glava4andMore\bin\Debug\Glava4andMore.exe
+E:\Projects\Visual\c#\FirstBookApp\Glava4andMore\bin\Debug\Glava4andMore.pdb
+E:\Projects\Visual\c#\FirstBookApp\Glava4andMore\obj\Debug\Glava4andMore.csprojAssemblyReference.cache
+E:\Projects\Visual\c#\FirstBookApp\Glava4andMore\obj\Debug\Glava4andMore.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\Glava4andMore\obj\Debug\Glava4andMore.exe
+E:\Projects\Visual\c#\FirstBookApp\Glava4andMore\obj\Debug\Glava4andMore.pdb

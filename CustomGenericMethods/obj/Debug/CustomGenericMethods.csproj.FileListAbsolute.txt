@@ -1,0 +1,6 @@
+E:\Projects\Visual\c#\FirstBookApp\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe.config
+E:\Projects\Visual\c#\FirstBookApp\CustomGenericMethods\bin\Debug\CustomGenericMethods.exe
+E:\Projects\Visual\c#\FirstBookApp\CustomGenericMethods\bin\Debug\CustomGenericMethods.pdb
+E:\Projects\Visual\c#\FirstBookApp\CustomGenericMethods\obj\Debug\CustomGenericMethods.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\CustomGenericMethods\obj\Debug\CustomGenericMethods.exe
+E:\Projects\Visual\c#\FirstBookApp\CustomGenericMethods\obj\Debug\CustomGenericMethods.pdb

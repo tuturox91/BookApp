@@ -1,0 +1,7 @@
+E:\Projects\Visual\c#\FirstBookApp\CustomEnumerator\bin\Debug\CustomEnumerator.exe.config
+E:\Projects\Visual\c#\FirstBookApp\CustomEnumerator\bin\Debug\CustomEnumerator.exe
+E:\Projects\Visual\c#\FirstBookApp\CustomEnumerator\bin\Debug\CustomEnumerator.pdb
+E:\Projects\Visual\c#\FirstBookApp\CustomEnumerator\obj\Debug\CustomEnumerator.csprojAssemblyReference.cache
+E:\Projects\Visual\c#\FirstBookApp\CustomEnumerator\obj\Debug\CustomEnumerator.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\CustomEnumerator\obj\Debug\CustomEnumerator.exe
+E:\Projects\Visual\c#\FirstBookApp\CustomEnumerator\obj\Debug\CustomEnumerator.pdb

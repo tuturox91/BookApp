@@ -1,0 +1,7 @@
+E:\Projects\Visual\c#\FirstBookApp\MultipleExeption\bin\Debug\MultipleExeption.exe.config
+E:\Projects\Visual\c#\FirstBookApp\MultipleExeption\bin\Debug\MultipleExeption.exe
+E:\Projects\Visual\c#\FirstBookApp\MultipleExeption\bin\Debug\MultipleExeption.pdb
+E:\Projects\Visual\c#\FirstBookApp\MultipleExeption\obj\Debug\MultipleExeption.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\MultipleExeption\obj\Debug\MultipleExeption.exe
+E:\Projects\Visual\c#\FirstBookApp\MultipleExeption\obj\Debug\MultipleExeption.pdb
+E:\Projects\Visual\c#\FirstBookApp\MultipleExeption\obj\Debug\MultipleExeption.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\Projects\Visual\c#\FirstBookApp\ClonablePoint\bin\Debug\ClonablePoint.exe.config
+E:\Projects\Visual\c#\FirstBookApp\ClonablePoint\bin\Debug\ClonablePoint.exe
+E:\Projects\Visual\c#\FirstBookApp\ClonablePoint\bin\Debug\ClonablePoint.pdb
+E:\Projects\Visual\c#\FirstBookApp\ClonablePoint\obj\Debug\ClonablePoint.csprojAssemblyReference.cache
+E:\Projects\Visual\c#\FirstBookApp\ClonablePoint\obj\Debug\ClonablePoint.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\ClonablePoint\obj\Debug\ClonablePoint.exe
+E:\Projects\Visual\c#\FirstBookApp\ClonablePoint\obj\Debug\ClonablePoint.pdb

@@ -1,0 +1,7 @@
+E:\Projects\Visual\c#\FirstBookApp\FirstBookApp\bin\Debug\FirstBookApp.exe.config
+E:\Projects\Visual\c#\FirstBookApp\FirstBookApp\bin\Debug\FirstBookApp.exe
+E:\Projects\Visual\c#\FirstBookApp\FirstBookApp\bin\Debug\FirstBookApp.pdb
+E:\Projects\Visual\c#\FirstBookApp\FirstBookApp\obj\Debug\FirstBookApp.csprojAssemblyReference.cache
+E:\Projects\Visual\c#\FirstBookApp\FirstBookApp\obj\Debug\FirstBookApp.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\FirstBookApp\obj\Debug\FirstBookApp.exe
+E:\Projects\Visual\c#\FirstBookApp\FirstBookApp\obj\Debug\FirstBookApp.pdb

@@ -1,0 +1,7 @@
+E:\Projects\Visual\c#\FirstBookApp\SimpleClassExampleST179\bin\Debug\SimpleClassExampleST179.exe.config
+E:\Projects\Visual\c#\FirstBookApp\SimpleClassExampleST179\bin\Debug\SimpleClassExampleST179.exe
+E:\Projects\Visual\c#\FirstBookApp\SimpleClassExampleST179\bin\Debug\SimpleClassExampleST179.pdb
+E:\Projects\Visual\c#\FirstBookApp\SimpleClassExampleST179\obj\Debug\SimpleClassExampleST179.csprojAssemblyReference.cache
+E:\Projects\Visual\c#\FirstBookApp\SimpleClassExampleST179\obj\Debug\SimpleClassExampleST179.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\SimpleClassExampleST179\obj\Debug\SimpleClassExampleST179.exe
+E:\Projects\Visual\c#\FirstBookApp\SimpleClassExampleST179\obj\Debug\SimpleClassExampleST179.pdb

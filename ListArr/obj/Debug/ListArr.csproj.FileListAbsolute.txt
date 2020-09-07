@@ -1,0 +1,7 @@
+E:\Projects\Visual\c#\FirstBookApp\ListArr\bin\Debug\ListArr.exe.config
+E:\Projects\Visual\c#\FirstBookApp\ListArr\bin\Debug\ListArr.exe
+E:\Projects\Visual\c#\FirstBookApp\ListArr\bin\Debug\ListArr.pdb
+E:\Projects\Visual\c#\FirstBookApp\ListArr\obj\Debug\ListArr.csprojAssemblyReference.cache
+E:\Projects\Visual\c#\FirstBookApp\ListArr\obj\Debug\ListArr.csproj.CoreCompileInputs.cache
+E:\Projects\Visual\c#\FirstBookApp\ListArr\obj\Debug\ListArr.exe
+E:\Projects\Visual\c#\FirstBookApp\ListArr\obj\Debug\ListArr.pdb
